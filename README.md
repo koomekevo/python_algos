@@ -6,9 +6,10 @@ Python Algos is a Python Algorithms and Data Structures repository.
 - Python
 ## Getting Started
 
-Run `git clone https://github.com/koomekevo/StudyBuddy.git` into your local computer
+Run `git clone https://github.com/koomekevo/python_algos.git` into your local computer
 
-Run `cd StudyBuddy` to change to project folder
+Run `cd python_algos` to change to project folder
+
 ## Authors
 
 👤 **Kevin Koome**
