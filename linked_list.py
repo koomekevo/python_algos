@@ -84,6 +84,8 @@ class LinkedList:
             else:
                 previous = current
                 current = current.node
+                
+        return current
             
     def __repr__(self):
         """
